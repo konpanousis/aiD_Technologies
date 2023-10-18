@@ -1,4 +1,8 @@
+
 # aiD project: aRTIFICIAL iNTELLIGENCE for the Deaf
+<p align="center">
+  <img src="img/aid_logo.jpg" />
+</p>
 
 Artificial intelligence opens new frontiers for knowledge on the needs of deaf people and for the creation of 
 solutions to improve daily life. The project aimed at the development of 
